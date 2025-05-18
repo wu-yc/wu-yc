@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yingcheng Wu, a MD-PhD Trainee of Surgery, Computational Biology, and Immunology at Fudan University & Chinese Academy of Sciences.
+- 👋 Hi, I’m Yingcheng Wu from Fudan
 - 📫 yingchengwu21@m.fudan.edu.cn
 
 Welcome to my [website](https://wu-yc.github.io/)! 
